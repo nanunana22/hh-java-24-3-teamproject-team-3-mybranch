@@ -6,7 +6,7 @@ function App() {
 
     return (
         <div className="root-container">
-            <h1 className="heading">Groceries app</h1>
+            <h1 className="heading">Groceries app, Hallo =)</h1>
             <ProductList/>
 
         </div>

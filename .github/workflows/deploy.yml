@@ -82,7 +82,7 @@ jobs:
     needs: push-to-docker-hub
     environment:
       name: team-project
-      url: https://groceries-app-bsu2.onrender.com/
+      url: https://groceriesapp-4r4m.onrender.com/
     steps:
       - name: Trigger Render.com Deployment
         run: |
